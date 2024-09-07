@@ -29,7 +29,7 @@ export function Home() {
                 color="white"
                 className="mb-6 font-black"
               >
-                Team Aether
+                Team Aether Update
               </Typography>
               <Typography variant="lead" color="white" className="opacity-80">
                 Unlocking the universe with sharper galaxy images and 
